@@ -11,10 +11,10 @@ IN THIS SPACE, INCLUDE THE DECISIONS AND ASSUMPTIONS YOU MADE WHEN REDESIGNING T
 2. design the logo image. I plan use the image URL: https://upload.wikimedia.org/wikipedia/commons/e/ec/Nordic_Optical_Telescope_near_sunset.jpg as the basic part, and add some flowers and the company name on it. 
 3. I plan the create three html in total. one index(main), services(including some travelling plans), and price(show the different price for plans).
 4. use Helvetica as the primary font-family, and, Arial is the second font-family
-5. For the '<h2>', I use the text-transform: uppercase; and text-decoration: underline; For the '<h4>', I use the border-bottom: 2px solid green; 
+5. For the 'h2', I use the text-transform: uppercase; and text-decoration: underline; For the 'h4', I use the border-bottom: 2px solid green; 
 6. add the tree.png as the background-image to the services part in the home page, and set it to the bottom right. Set the background-size: 40% to let the image can change small as decreasing the width of the webpage.
 7. Following the Moodboard, using #B6FFAB, #F1FF9E, #BBE890 as the main color for the website.
-8. For the navigation bar, I tend to make a sub-menu. In order to do that, I need to creat two '<ol>' lists in the '<nav>' and hide the sub-menu. In the "a: hover", change the display property od sub-menu to block.
+8. For the navigation bar, I tend to make a sub-menu. In order to do that, I need to creat two 'ol' lists in the 'nav' and hide the sub-menu. In the "a: hover", change the display property od sub-menu to block.
 9. In order to keep the navigation bar always floating on the top of the webpage, I plan to set Nav's position to “sticky”; And the top distance is zero. 
 10. use the "grid" property to layout the header, navigation, aside, and article following the wireframes.
 11. use percentage to set the width for every part of the web page to make the webpage can change in the different viewport.
