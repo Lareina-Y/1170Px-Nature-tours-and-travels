@@ -1,3 +1,5 @@
+GitHub Page: https://lareina-y.github.io/1170Px-Nature-tours-and-travels/
+
 # CSCI 1170
 ## Project (Winter 2020)
 
